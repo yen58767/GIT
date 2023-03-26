@@ -4,7 +4,7 @@ import pickle
 import base64
 from PIL import Image, ImageTk
 from io import BytesIO
-
+#Thank for GPT
 class App:
     def __init__(self):
         self.root = tk.Tk()
